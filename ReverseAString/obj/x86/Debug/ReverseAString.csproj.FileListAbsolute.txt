@@ -1,0 +1,6 @@
+/Users/macbook/Projects/ReverseAString/ReverseAString/bin/Debug/ReverseAString.exe
+/Users/macbook/Projects/ReverseAString/ReverseAString/bin/Debug/ReverseAString.pdb
+/Users/macbook/Projects/ReverseAString/ReverseAString/obj/x86/Debug/ReverseAString.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/ReverseAString/ReverseAString/obj/x86/Debug/ReverseAString.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/ReverseAString/ReverseAString/obj/x86/Debug/ReverseAString.exe
+/Users/macbook/Projects/ReverseAString/ReverseAString/obj/x86/Debug/ReverseAString.pdb
